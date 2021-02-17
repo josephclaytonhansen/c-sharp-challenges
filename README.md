@@ -92,3 +92,8 @@ Build and print a basic fast food menu with prices. Take an order from the user.
   
 HINT: If you've done challenge #6, you've done at least half of this already. Don't be afraid to re-use code! 
 </details>
+
+### Challenge 15
+Build a game of Rock, Paper, Scissors. Give the option to play again. Keep a running score.
+
+**BONUS**: You can use this for rudimentary "machine learning." Store the results of each game, and use the past results to weight the next decision. Choose randomly- but if the random choice is the worst of the three (so far), choose again. 
