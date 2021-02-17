@@ -2,7 +2,7 @@
 ## Introductory Challenges
 All of these challenges can be done fairly simply in a console app. There are **15 introductory challenges**, covering the basics of C#, and they're all simple terminal read/terminal write programs. The mid-level challenges will start to use file input/output as well. These challenges are designed to be companion exercises to *https://www.youtube.com/watch?v=GhQdlIFylQ8*, FreeCodeCamp's excellent C# tutorial. You can do all of these challenges with the material in the video... more or less. 
 
-You may also need information regarding random numbers (*https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number* for an overview, *https://docs.microsoft.com/en-us/dotnet/api/system.random?view=net-5.0* for documentation) and lists (*https://www.c-sharpcorner.com/article/c-sharp-list/* has excellent information in a readable format.)
+*You may also need information regarding random numbers (https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number for an overview, https://docs.microsoft.com/en-us/dotnet/api/system.random?view=net-5.0 for documentation) and lists (https://www.c-sharpcorner.com/article/c-sharp-list/ has excellent information in a readable format.)*
 
 This repository also contains solutions I've written for these challenges. Note that they are not optimized, but are meant to be readable and understandable. I would encourage you not to copy and paste the solutions. Having them open as reference may help you figure something tricky out, but copying and pasting from them will not. Whenever possible, use your **knowledge, intuition**, and **trial and error** before looking at the solutions. 
 
