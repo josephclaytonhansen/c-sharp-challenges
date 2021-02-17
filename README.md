@@ -20,7 +20,7 @@ Get a number from the user and use it to print that many significant digits of p
 <details>
   <summary>Hint</summary>
   
-HINT: Pi ~= 355/113
+HINT: Pi ~= 355/113, but there's a more precise constant in Math.Pi
 </details>
 
 ### Challenge 3
