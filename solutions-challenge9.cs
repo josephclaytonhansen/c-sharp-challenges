@@ -6,8 +6,13 @@ namespace learning
 {
     class Program
     {
+        public static class Global
+        {
+            public static List<string> cards_in_play = new List<string>();
+        }
         static void Main(string[] args)
         {
+            Console.WriteLine();
             List<string> player_hand = DealHand(5, BuildDeck());
             foreach (string card in player_hand)
             {
@@ -37,20 +42,20 @@ namespace learning
         {
             List<string> hand = new List<string>();
             Random rnd = new Random();
-            List<string> cards_in_play = new List<string>();
-            for (int x = 0; x <= num; x++)
+
+            for (int x = 0; x < num; x++)
             {
                 int card = rnd.Next(deck.Length);
-                if (cards_in_play.Contains(deck[card]))
+                if (Global.cards_in_play.Contains(deck[card]))
                 {
-                    while (cards_in_play.Contains(deck[card]))
+                    while (Global.cards_in_play.Contains(deck[card]))
                     {
                         card = rnd.Next(deck.Length);
                     }
                 }
                 else
                 {
-                    cards_in_play.Add(deck[card]);
+                    Global.cards_in_play.Add(deck[card]);
                     hand.Add(deck[card]);
                 }
 
