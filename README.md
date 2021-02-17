@@ -1,5 +1,5 @@
 # C# Challenges
-## Introductory Challenges
+# Introductory Challenges
 All of these challenges can be done fairly simply in a console app. There are **15 introductory challenges**, covering the basics of C#, and they're all simple terminal read/terminal write programs. The mid-level challenges will start to use file input/output as well. These challenges are designed to be companion exercises to *https://www.youtube.com/watch?v=GhQdlIFylQ8*, FreeCodeCamp's excellent C# tutorial. You can do all of these challenges with the material in the video... more or less. 
 
 **You may also need information regarding**:
@@ -104,8 +104,10 @@ Build and print a basic fast food menu with prices. Take an order from the user.
 HINT: If you've done challenge #6, you've done at least half of this already. Don't be afraid to re-use code! 
 </details>
 
-## This challenge uses everything these challenges have covered so far (even math operations, if you do the bonus) and concludes this challenge set.
+## 15: This challenge uses everything these challenges have covered so far (even math operations, if you do the bonus) and concludes this challenge set.
 ### Challenge 15
 Build a game of Rock, Paper, Scissors. Give the option to play again. Keep a running score.
 
 **BONUS**: You can use this for rudimentary "machine learning." Store the results of each game, and use the past results to weight the next decision. Choose randomly- but if the random choice is the worst of the three (so far), choose again. 
+
+# Mid-Level Challenges
