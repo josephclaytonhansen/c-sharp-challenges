@@ -39,7 +39,7 @@ BONUS: Put “and” before the last topping.
 <details>
   <summary>Hint</summary>
   
-HINT: You can use a loop to make printing topping information easier
+HINT: This may be easier with a list. See https://www.c-sharpcorner.com/article/c-sharp-list/
 </details>
 
 ### Challenge 7
