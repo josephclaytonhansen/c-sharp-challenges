@@ -7,7 +7,9 @@ All of these challenges can be done fairly simply in a console app. There are **
 - *lists (https://www.c-sharpcorner.com/article/c-sharp-list/ has excellent information in a readable format.)*
 - *"global variables" (so to speak), https://stackoverflow.com/questions/14368129/how-to-use-global-variables-in-c has a great simple answer*
 
-This repository also contains solutions I've written for these challenges. Note that they are not optimized, but are meant to be readable and understandable. I would encourage you not to copy and paste the solutions. Having them open as reference may help you figure something tricky out, but copying and pasting from them will not. Whenever possible, use your **knowledge, intuition**, and **trial and error** before looking at the solutions. Also **StackOverflow**. You can find the answer to almost any programming question by typing it in Google or StackOverflow.
+This repository also contains solutions I've written for these challenges. Note that they are not optimized, but are meant to be readable and understandable. I would encourage you not to copy and paste the solutions. Having them open as reference may help you figure something tricky out, but copying and pasting from them will not. Whenever possible, use your **knowledge, intuition**, and **trial and error** before looking at the solutions. 
+
+Also **StackOverflow**. You can find the answer to almost any programming question by typing it in Google or StackOverflow.
 
 ## 1: Using Console read and write
 ### Challenge 1
