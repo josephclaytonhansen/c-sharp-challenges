@@ -31,6 +31,7 @@ HINT: Don’t forget about the modulo operator
 
 ### Challenge 5
 Get two strings from the user and print “They are the same!” if they are the same, or “They are not the same!” if they are not.
+
 **BONUS**: Match despite capitalization
 
 ### Challenge 6
