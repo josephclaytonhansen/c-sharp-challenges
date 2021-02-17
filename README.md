@@ -72,3 +72,6 @@ Deal 5 cards to three users (user1, user2, and user3), without repeating any. Pr
 
 ### Challenge 12
 Build a functional game of Crazy 8 between you and the computer, using a standard deck. 
+
+### Challenge 13
+Get an email address from the user and validate it. Print the validation status and the domain.
