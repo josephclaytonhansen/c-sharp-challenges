@@ -11,6 +11,8 @@ This repository also contains solutions I've written for these challenges. Note 
 
 Also **StackOverflow**. You can find the answer to almost any programming question by typing it in Google or StackOverflow.
 
+At a future point, I'll record myself solving these solutions and explaining them. That is obviously much more valuable than just having the code. Video links will be attached to each challenge. 
+
 ## 1: Using Console read and write
 ### Challenge 1
 Get a hot dog order from the user: give them three options to enter a topping, then print “Here is your hot dog. It has: (toppings).”
