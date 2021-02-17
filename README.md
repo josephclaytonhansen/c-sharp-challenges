@@ -81,4 +81,10 @@ Get an email address from the user and validate it. Print the validation status 
 
 ### Challenge 14
 Build and print a basic fast food menu with prices. Take an order from the user. After each item, ask the user if they'd like anything else. Once their order is complete, print out their order and see if they want changes. If they do, allow them to add or remove items until satisfied. Once they're finally satisfied, charge them their total + sales tax (6%). 
+
 **BONUS**: Choose an item that's out of stock. Let the user know if they pick it. It should never be added to an order.
+<details>
+  <summary>Hint</summary>
+  
+HINT: If you've done challenge #6, you've done at least half of this already. Don't be afraid to re-use code! 
+</details>
