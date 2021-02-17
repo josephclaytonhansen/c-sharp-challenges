@@ -5,7 +5,7 @@ All of these challenges can be done fairly simply in a console app. There are **
 **You may also need information regarding**:
 - *random numbers (https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number for an overview, https://docs.microsoft.com/en-us/dotnet/api/system.random?view=net-5.0 for documentation)*
 - *lists (https://www.c-sharpcorner.com/article/c-sharp-list/ has excellent information in a readable format.)*
-- *"global variables" (so to speak), https://stackoverflow.com/questions/14368129/how-to-use-global-variables-in-c has a great simple answer
+- *"global variables" (so to speak), https://stackoverflow.com/questions/14368129/how-to-use-global-variables-in-c has a great simple answer*
 
 This repository also contains solutions I've written for these challenges. Note that they are not optimized, but are meant to be readable and understandable. I would encourage you not to copy and paste the solutions. Having them open as reference may help you figure something tricky out, but copying and pasting from them will not. Whenever possible, use your **knowledge, intuition**, and **trial and error** before looking at the solutions. 
 
