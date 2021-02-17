@@ -5,6 +5,8 @@ All of these challenges can be done fairly simply in a console app.
 ### Challenge 1
 Get a hot dog order from the user: give them three options to enter a topping, then print “Here is your hot dog. It has: (toppings).”
 
+**BONUS**: Put “and” before the last topping and put a period at the end of the toppings.
+
 ### Challenge 2
 Get a number from the user and use it to print that many significant digits of pi (i.e., user says “3”, print “3.141”)
 <details>
