@@ -66,3 +66,6 @@ Use “new Random()” to deal 5 random cards to the user from a deck, and print
 - 3-of-a-kind
 - two pairs
 - a pair
+
+### Challenge 11
+Deal 5 cards to three users (user1, user2, and user3), without repeating any. Print the probability of the next card for a number, an ace, or a face card.
