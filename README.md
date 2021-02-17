@@ -57,4 +57,12 @@ Google “C# random number”
 </details>
 
 ### Challenge 10
-Use “new Random()” to deal 5 random cards to the user from a deck, and print those cards. Tell them if they have a full house.
+Use “new Random()” to deal 5 random cards to the user from a deck, and print those cards. Tell them if they have a:
+- straight flush
+- 4-of-a-kind
+- full house
+- flush
+- straight
+- 3-of-a-kind
+- two pairs
+- a pair
