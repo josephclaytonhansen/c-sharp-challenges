@@ -1,6 +1,6 @@
 # C# Challenges
 ## Introductory Challenges
-All of these challenges can be done fairly simply in a console app. 
+*All of these challenges can be done fairly simply in a console app. *
 
 ### Challenge 1
 Get a hot dog order from the user: give them three options to enter a topping, then print “Here is your hot dog. It has: (toppings).”
