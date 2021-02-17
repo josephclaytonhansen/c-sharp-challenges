@@ -31,6 +31,7 @@ HINT: Don’t forget about the modulo operator
 
 ### Challenge 5
 Get two strings from the user and print “They are the same!” if they are the same, or “They are not the same!” if they are not.
+**BONUS**: Match despite capitalization
 
 ### Challenge 6
 Print pricing information about a hot dog with six topping options: ketchup, mustard, onions, cream cheese, mushrooms, and jalapenos. The hot dog should have a base price, and toppings should add to it. For each topping, ask the user if they want it (yes or no). Print their hot dog with toppings (comma separated) and the price. 
