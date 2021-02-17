@@ -35,8 +35,9 @@ Get two strings from the user and print “They are the same!” if they are the
 ### Challenge 6
 Print pricing information about a hot dog with six topping options: ketchup, mustard, onions, cream cheese, mushrooms, and jalapenos. The hot dog should have a base price, and toppings should add to it. For each topping, ask the user if they want it (yes or no). Print their hot dog with toppings (comma separated) and the price. 
 
-BONUS: Put “and” before the last topping and put a period at the end of the toppings.
-DOUBLE BONUS: Include sales tax (6%) in the price. 
+**BONUS**: Put “and” before the last topping and put a period at the end of the toppings.
+
+**DOUBLE BONUS**: Include sales tax (6%) in the price. 
 
 <details>
   <summary>Hint</summary>
