@@ -51,7 +51,9 @@ namespace learning
                     while (Global.cards_in_play.Contains(deck[card]))
                     {
                         card = rnd.Next(deck.Length);
+                        
                     }
+                    hand.Add(deck[card]);
                 }
                 else
                 {
