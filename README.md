@@ -56,15 +56,15 @@ Get three numbers from the user. If two of them are the same, print “Two of th
 Get three cards from the user formatted as “10 of Hearts” or “H10”. (i.e., Ace of Clubs would be CA.) Tell them if they have a pair.
 
 ### Challenge 9
-Use “new Random()” to deal 5 random cards to the user from a deck, and print those cards. 
+Deal 5 random cards to the user from a deck, and print those cards. 
 <details>
   <summary>Hint</summary>
   
-Google “C# random number”
+Use global variables to keep track of which cards are in play. Look at the solution for an example.
 </details>
 
 ### Challenge 10
-Use “new Random()” to deal 5 random cards to the user from a deck, and print those cards. Tell them if they have a:
+Deal 5 random cards to the user from a deck, and print those cards. Tell them if they have a:
 - straight flush
 - 4-of-a-kind
 - full house
