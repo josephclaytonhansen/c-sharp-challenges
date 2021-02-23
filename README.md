@@ -111,8 +111,8 @@ HINT: If you've done challenge #6, you've done at least half of this already. Do
 
 ## 15: This challenge uses everything these challenges have covered so far (even math operations, if you do the bonus) and concludes this challenge set.
 ### Challenge 15
-Build a game of Rock, Paper, Scissors. Keep the input flexible: "rock", "Rock", "ROCK", "R", and "r" should all mean a choice of Rock. So should "  rock" and "rock "; remove whitespaces. Give the option to play again. Keep a running score.
+Build a game of Rock, Paper, Scissors. Keep the input flexible: "rock", "Rock", "ROCK", "R", and "r" should all mean a choice of Rock. Give the option to play again. Keep a running score.
 
-**BONUS**: You can use this for rudimentary "machine learning." Store the results of each game, and use the past results to weight the next decision. Choose randomly- but if the random choice is the worst of the three (so far), choose again. 
+**BONUS**: You can use this for rudimentary "machine learning." Store the results of each game, and use the past results to weight the next decision. 
 
 # Mid-Level Challenges
