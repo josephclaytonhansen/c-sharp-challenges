@@ -20,7 +20,7 @@ namespace learning
             for (int i = 0; i < 6; i++)
             {
                 Console.Write("Do you want " + toppings[i] + " on your hot dog (Y/N)? ");
-                if (Console.ReadLine() == "Y")
+                if (Console.ReadLine().ToUpper() == "Y")
                 {
                     price += topping_prices[i];
                     hotdog.Add(toppings[i]);
@@ -62,4 +62,3 @@ namespace learning
 
 
 }
-
